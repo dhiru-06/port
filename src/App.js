@@ -9,7 +9,7 @@ function App() {
           HI, My name is Dheeraj 
         </h2>
         <br></br>
-        <h2>And I am A Software developer</h2>
+        <h2>And I am A Software developer,Front End Developer</h2>
 
         <img src={logo} className="App-logo" alt="logo" />
         
